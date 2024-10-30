@@ -2,7 +2,7 @@
 #
 # See LICENSE for license information.
 
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.18)
 
 # Language options
 if(NOT DEFINED CMAKE_CUDA_ARCHITECTURES)
